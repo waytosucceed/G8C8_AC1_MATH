@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Find the HCF of 15, 50 and 45.",
+        "options": [
+            "6",
+            "5",
+            "10",
+            "8"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What is the HCF of 56 and 98?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What is the HCF of 84 and 126?",
+        "options": [
+            "21",
+            "42",
+            "28",
+            "84"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "The HCF of 210 and 315 is:",
+        "options": [
+            "15",
+            "30",
+            "45",
+            "105"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Find the HCF of 144, 216, and 288.",
+        "options": [
+            "24",
+            "36",
+            "48",
+            "72"
+        ],
+        "correct": 3
+    }
+]
